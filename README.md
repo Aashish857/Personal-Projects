@@ -1,2 +1,2 @@
-# Personal-Projects
+# weather web app
 major and minor Porjects
